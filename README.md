@@ -1,2 +1,4 @@
 # FIR-and-IIR-filter-Design
-FIR and IIR filter Design using MATLAB
+- FIR bandpass filter design using kaiser window method
+- IIR bandpass filter design using bilinear transformation method (chebyshev approximation)
+
